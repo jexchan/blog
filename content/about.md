@@ -3,9 +3,17 @@ title: "About Me"
 draft: false
 ---
 
-### 关于我
-喜欢的一句话：Get busy living, or get busy dying.
+Hi，这里是 jexchan，很高兴认识大家。
 
-### 找到我
+
+推荐一句很喜欢的话（没查到出处）
+
+> 在绝对的事情上，要绝对的坚持；在相对的事情上，要绝对的自由！在一切的事情上，一定要有爱心。
+
+### 关注的领域
+
+创新教育 / 编程与写作 / 学习科学
+
+### 如何联系我
 
 Email: jexchan@gmail.com

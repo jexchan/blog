@@ -1,0 +1,12 @@
+<!-- Footer custom content area start -->
+<!--
+Insert any custom code web-analytics, resources, etc. here
+-->
+<!-- 不蒜子网站计数 -->
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js">
+</script>
+<!-- Google Analytics -->
+{{ if not .Site.IsServer }}
+{{ template "_internal/google_analytics.html" . }}
+{{ end }}
+<!-- Footer custom content area end -->
