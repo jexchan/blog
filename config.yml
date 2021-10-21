@@ -18,7 +18,7 @@ menu:
           url: archives/
           weight: 3
         - name: Newsletter
-          url: newsletter/
+          url: newsletter.jexchan.com
           weight: 4
         - name: About
           url: about/
@@ -36,13 +36,13 @@ params:
   profileMode:
     enabled: true
     title: "于是过程是风景 结果是明信片"
-    imageUrl: 'https://postcard.lilpilot.co/logo.png'
+    imageUrl: 'https://jexchan.com/logo.png'
     imageWidth: 120
     imageHeight: 120
-    imageTitle: lilpilot
+    imageTitle: jexchan 
         
   assets:
-      favicon: "https://postcard.lilpilot.co/favicon32X32.ico"
-      favicon16x16: "https://postcard.lilpilot.co/favicon16X16.ico"
-      favicon32x32: "https://postcard.lilpilot.co/favicon16X16.ico"
+      favicon: "https://jexchan.com/favicon32X32.ico"
+      favicon16x16: "https://jexchan.com/favicon16X16.ico"
+      favicon32x32: "https://jexchan.com/favicon16X16.ico"
 
