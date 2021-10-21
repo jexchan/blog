@@ -1,0 +1,48 @@
+baseURL: http://example.org/
+languageCode: zh-cn
+defaultContentLanguage: zh-cn
+paginate: 10
+title: 大圣不是圣
+theme: "PaperMod"
+enableRobotsTXT: true
+
+menu:
+    main:
+        - name: Posts
+          url: posts/
+          weight: 1
+        - name: Tags
+          url: tags/
+          weight: 2
+        - name: Archive
+          url: archives/
+          weight: 3
+        - name: Newsletter
+          url: newsletter/
+          weight: 4
+        - name: About
+          url: about/
+          weight: 5
+params:
+  env: production
+  title: Postcard
+  description: "大圣不是圣"
+  keywords: [Blog, Writing]
+  defaultTheme: light
+  disableThemeToggle: true
+  showtoc: false
+  tocopen: false 
+
+  profileMode:
+    enabled: true
+    title: "于是过程是风景 结果是明信片"
+    imageUrl: 'https://postcard.lilpilot.co/logo.png'
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: lilpilot
+        
+  assets:
+      favicon: "https://postcard.lilpilot.co/favicon32X32.ico"
+      favicon16x16: "https://postcard.lilpilot.co/favicon16X16.ico"
+      favicon32x32: "https://postcard.lilpilot.co/favicon16X16.ico"
+
