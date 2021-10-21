@@ -18,7 +18,7 @@ menu:
           url: archives/
           weight: 3
         - name: Newsletter
-          url: newsletter.jexchan.com
+          url: https://newsletter.jexchan.com
           weight: 4
         - name: About
           url: about/
@@ -35,7 +35,7 @@ params:
 
   profileMode:
     enabled: true
-    title: "于是过程是风景 结果是明信片"
+    title: "Get busy living, or get busy dying."
     imageUrl: 'https://jexchan.com/logo.png'
     imageWidth: 120
     imageHeight: 120
