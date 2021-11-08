@@ -42,7 +42,7 @@ params:
     imageTitle: jexchan 
         
   assets:
-      favicon: "https://jexchan.com/favicon32X32.ico"
-      favicon16x16: "https://jexchan.com/favicon16X16.ico"
-      favicon32x32: "https://jexchan.com/favicon16X16.ico"
+      favicon: "https://jexchan.com/favicon-32x32.png"
+      favicon16x16: "https://jexchan.com/favicon-16x16.png"
+      favicon32x32: "https://jexchan.com/favicon-32x32.png"
 
