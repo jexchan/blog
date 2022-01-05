@@ -1,4 +1,4 @@
-baseURL: https://jexchan.com/
+baseURL: 'https://jexchan.com/'
 languageCode: zh-cn
 defaultContentLanguage: zh-cn
 paginate: 10
@@ -18,7 +18,7 @@ menu:
           url: archives/
           weight: 3
         - name: Newsletter
-          url: https://newsletter.jexchan.com
+          url: 'https://newsletter.jexchan.com'
           weight: 4
         - name: About
           url: about/
@@ -26,7 +26,7 @@ menu:
 params:
   env: production
   title: Postcard
-  description: "大圣不是圣"
+  description: '大圣不是圣'
   keywords: [Blog, Writing]
   defaultTheme: light
   disableThemeToggle: true
@@ -35,14 +35,14 @@ params:
 
   profileMode:
     enabled: true
-    title: "Get busy living, or get busy dying."
+    title: 'Get busy living, or get busy dying.'
     imageUrl: 'https://jexchan.com/logo.png'
     imageWidth: 120
     imageHeight: 120
     imageTitle: jexchan 
         
   assets:
-      favicon: "https://jexchan.com/favicon-32x32.png"
-      favicon16x16: "https://jexchan.com/favicon-16x16.png"
-      favicon32x32: "https://jexchan.com/favicon-32x32.png"
+      favicon: 'https://jexchan.com/favicon-32x32.png'
+      favicon16x16: 'https://jexchan.com/favicon-16x16.png'
+      favicon32x32: 'https://jexchan.com/favicon-32x32.png'
 
